@@ -1,1 +1,2 @@
-creating my first readme file kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+# Holberton zero day
+This project is focused on creating the first Git repository
